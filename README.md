@@ -7,4 +7,5 @@
 
 | Build | Source | Date | SHA-256 |
 |---|---|---|---|
-| current | zdep-platform `4e9e678` | 2026-10-20 | `e9497b25b99bd408ce2fb78737ea3fc3a6c8487e88a35a48963b1f06d4b8b5f6` |
+| current | zdep-platform `4c9b06e` | 2026-11-12 | `65afc8ce749530b38747fa869e87406ee7bc8c0a291b521c261ea2fbafb4c091` |
+| previous | zdep-platform `4e9e678` | 2026-10-20 | `e9497b25b99bd408ce2fb78737ea3fc3a6c8487e88a35a48963b1f06d4b8b5f6` |
